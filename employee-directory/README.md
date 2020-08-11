@@ -1,4 +1,32 @@
+## Overview
+
+This is an employee directory app created with React which allows a list of employees to render when the page loads and the user will be able to search for a specific employee by name.
+
+## User Story
+
+* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+
+## Business Context
+
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
+## Acceptance Criteria
+
+Given a table of random users, when the user loads the page, a table of employees should render. 
+
+The user should be able to:
+
+  * Sort the table by at least one category
+
+  * Filter the users by at least one property.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## My Deployed App on Heroku
+https://sheltered-tor-77783.herokuapp.com/
+
+![](./public/img/Employees.png)
+![](./public/img/Employee.png)
 
 ## Available Scripts
 
